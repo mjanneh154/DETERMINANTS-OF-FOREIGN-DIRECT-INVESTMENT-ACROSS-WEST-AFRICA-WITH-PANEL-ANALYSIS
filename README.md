@@ -93,4 +93,6 @@ The results also demonstrate the importance of model diagnostics: a higher R² d
 * Jupyter Notebook
 
 # Visualizations
-![FDI TREND OVER YEARS](fdi_trend)
+![FDI TREND OVER YEARS](fdi_trend.png)
+![AVERAGE FDI BY COUNTRY](average_fdi_by_country.png)
+![FDI VS TRADE OPENNESS](fdi_vs_openess.png)
